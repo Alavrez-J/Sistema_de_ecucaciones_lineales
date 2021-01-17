@@ -13,7 +13,7 @@ public class Main {
         }
         JOptionPane.showMessageDialog(null,s.toString());
         s.getSolucion();
-        System.out.println("1er cambio");
+        System.out.println("cambio");
     }
 
     public static void ingresarTamanio(){
