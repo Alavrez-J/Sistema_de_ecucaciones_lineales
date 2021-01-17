@@ -2,6 +2,7 @@ package ec.edu.epn.g6;
 
 import javax.swing.*;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Sistema {
     ArrayList <Ecuacion>matrizCoeficientes;
@@ -109,7 +110,7 @@ public class Sistema {
             resultado += "x"+(i+1)+"= "+dRet[i]+"\n";
 
         }
-        JOptionPane.showMessageDialog(null,resultado);
+        System.out.println(resultado);
         return resultado;
     }
 

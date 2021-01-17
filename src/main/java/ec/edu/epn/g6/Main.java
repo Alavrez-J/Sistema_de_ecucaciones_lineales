@@ -1,5 +1,6 @@
 package ec.edu.epn.g6;
 import javax.swing.*;
+import java.util.Scanner;
 
 public class Main {
     static int tamanio;
@@ -11,14 +12,17 @@ public class Main {
             s.llenarMatriz(ec);
 
         }
-        JOptionPane.showMessageDialog(null,s.toString());
+        System.out.println(s.toString());
         s.getSolucion();
         System.out.println("cambio");
     }
 
     public static void ingresarTamanio(){
+        Scanner s;
         try {
-            tamanio = Integer.parseInt(JOptionPane.showInputDialog("Ingrese el tamaño del sistema de ecuaciones"));
+            System.out.println("Ingrese el tamaño del sistema de ecuaciones");
+            s = new Scanner(System.in);
+            tamanio = Integer.parseInt(s.next());
 
         }catch(NumberFormatException e) {
             ingresarTamanio();
