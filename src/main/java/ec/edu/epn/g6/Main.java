@@ -16,6 +16,8 @@ public class Main {
         Ecuacion ecu2 = new Ecuacion(2,b);
         s.llenarMatriz(ecu2);
         s.getSolucion();
+
+        System.out.println("cambio 2");
     }
 
     public static void ingresarTamanio(){
