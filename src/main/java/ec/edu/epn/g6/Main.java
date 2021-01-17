@@ -6,15 +6,16 @@ public class Main {
     static int tamanio;
     public static void main(String[] args) {
         Sistema s = new Sistema();
-        ingresarTamanio();
-        for(int i = 0; i<tamanio; i++) {
-            Ecuacion ec = new Ecuacion(tamanio);
-            s.llenarMatriz(ec);
+        float[] esperado = {0,5};
 
-        }
-        System.out.println(s.toString());
+        float a[]={1,1,5};
+        Ecuacion ecu1 = new Ecuacion(2,a);
+        s.llenarMatriz(ecu1);
+
+        float b[] = {3,2,10};
+        Ecuacion ecu2 = new Ecuacion(2,b);
+        s.llenarMatriz(ecu2);
         s.getSolucion();
-        System.out.println("cambio");
     }
 
     public static void ingresarTamanio(){

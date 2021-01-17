@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a4402e0-c7c2-4353-b42e-e27682a650a0" name="Default Changelist" comment="creacion del .jar">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/g6/Ecuacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/g6/Ecuacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/g6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/g6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/g6/Sistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/g6/Sistema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ec/edu/epn/g6/SistemaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ec/edu/epn/g6/SistemaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ProyectoFinalSWGrupo6-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/g6/Ecuacion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/g6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/g6/Sistema.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.g6.SistemaTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.g6.SistemaTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/edu/epn/g6/SistemaTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="4a4402e0-c7c2-4353-b42e-e27682a650a0" name="Default Changelist" comment="transformacion de JoptionPane a System.out" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610909601441</updated>
       <workItem from="1610909602608" duration="3425000" />
-      <workItem from="1610913190235" duration="6028000" />
+      <workItem from="1610913190235" duration="6462000" />
     </task>
     <task id="LOCAL-00001" summary="creacion del .jar">
       <created>1610911620221</created>
@@ -204,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610914625402</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="transformacion de JoptionPane a System.out">
+      <created>1610921654531</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610921654531</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +212,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creacion del .jar" />
-    <option name="LAST_COMMIT_MESSAGE" value="creacion del .jar" />
+    <MESSAGE value="transformacion de JoptionPane a System.out" />
+    <option name="LAST_COMMIT_MESSAGE" value="transformacion de JoptionPane a System.out" />
   </component>
 </project>
