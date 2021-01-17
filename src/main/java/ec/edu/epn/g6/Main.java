@@ -17,7 +17,7 @@ public class Main {
         s.llenarMatriz(ecu2);
         s.getSolucion();
 
-        System.out.println("cambio 3");
+        System.out.println("cambio 1");
     }
 
     public static void ingresarTamanio(){

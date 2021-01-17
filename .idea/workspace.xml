@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a4402e0-c7c2-4353-b42e-e27682a650a0" name="Default Changelist" comment="modificacion del main">
+    <list default="true" id="4a4402e0-c7c2-4353-b42e-e27682a650a0" name="Default Changelist" comment="cambio 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/g6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/g6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ProyectoFinalSWGrupo6-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/ProyectoFinalSWGrupo6-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/g6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ec/edu/epn/g6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.g6.SistemaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.g6.SistemaTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.g6.SistemaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.g6.SistemaTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610909601441</updated>
       <workItem from="1610909602608" duration="3425000" />
-      <workItem from="1610913190235" duration="8702000" />
+      <workItem from="1610913190235" duration="9344000" />
     </task>
     <task id="LOCAL-00001" summary="creacion del .jar">
       <created>1610911620221</created>
@@ -210,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610922301171</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="cambio 1">
+      <created>1610924535579</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610924535579</updated>
+    </task>
+    <task id="LOCAL-00009" summary="cambio 3">
+      <created>1610924615823</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610924615823</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +250,8 @@
     <MESSAGE value="creacion del .jar" />
     <MESSAGE value="transformacion de JoptionPane a System.out" />
     <MESSAGE value="modificacion del main" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificacion del main" />
+    <MESSAGE value="cambio 1" />
+    <MESSAGE value="cambio 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambio 3" />
   </component>
 </project>
