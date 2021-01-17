@@ -12,12 +12,12 @@ public class Main {
         Ecuacion ecu1 = new Ecuacion(2,a);
         s.llenarMatriz(ecu1);
 
-        float b[] = {3,4,11};
+        float b[] = {3,4,12};
         Ecuacion ecu2 = new Ecuacion(2,b);
         s.llenarMatriz(ecu2);
         s.getSolucion();
 
-        System.out.println("cambio 1");
+        System.out.println("cambio 2");
     }
 
     public static void ingresarTamanio(){
